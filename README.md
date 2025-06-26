@@ -8,3 +8,5 @@ Description:
 This Power BI dashboard analyzes sales performance of Swiggy Instamart across different years, city types, shop sizes, and product categories.
 It includes KPIs like Total Sales, Average Sales, Orders, and Ratings with filters for year, shop size, and city tier.
 Key insights include shop performance trends, category-wise sales, and city-level order patterns.
+<br>
+<img src="https://github.com/Yashrwt2167/Power-Bi-Project-/blob/549e6aa3a9df1ea76e7fafa4de55f6cc43861615/INSTAMART%20Final%20Dashboard.png" width = "600">
