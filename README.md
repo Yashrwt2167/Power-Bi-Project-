@@ -13,4 +13,5 @@ Key insights include shop performance trends, category-wise sales, and city-leve
 <br>
 HR Analytics Dashboard 📊
 This Power BI project visualizes key HR metrics to help understand employee attrition across roles, age groups, salary slabs, and education levels.
+<br>
 <img src="https://github.com/Yashrwt2167/Power-Bi-Project-/blob/9d1971ce4e68ef45f0918691e99e724ecf5ed8a6/HR%20ANALYTICS%20DASHBOARD%20IMAGE%20ROJECT%203.png" width = "600">
