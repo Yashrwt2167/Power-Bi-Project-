@@ -15,3 +15,21 @@ HR Analytics Dashboard 📊
 This Power BI project visualizes key HR metrics to help understand employee attrition across roles, age groups, salary slabs, and education levels.
 <br>
 <img src="https://github.com/Yashrwt2167/Power-Bi-Project-/blob/9d1971ce4e68ef45f0918691e99e724ecf5ed8a6/HR%20ANALYTICS%20DASHBOARD%20IMAGE%20ROJECT%203.png" width = "600">
+<br>
+📊 Mobile Sales Dashboard (Power BI)
+Interactive Power BI dashboard visualizing mobile phone sales across Indian cities.
+Key insights include:
+
+Total sales: ₹308M | 2K transactions | Avg. price: ₹40.56K
+
+Monthly quantity trends
+
+City-wise sales mapping
+
+Brand & model performance
+
+Customer ratings & payment method analysis
+
+Tools: Power BI, DAX, Data Modeling, Map & Line Visuals
+<br>
+<img src="https://github.com/Yashrwt2167/Power-Bi-Project-/blob/7d1bb270216fb41f90cbce2669fa2845bbfc3191/Mobile%20sales%20image%20project%204.png" width = "600">
